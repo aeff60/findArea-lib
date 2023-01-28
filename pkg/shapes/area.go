@@ -5,8 +5,7 @@ func GetRectangleArea(width, height float32) float32 {
 
 }
 
-func GetCircleArea(radius float32) float32
-{
+func GetCircleArea(radius float32) float32{
 	return math.Pi * radius * radius
 
 }
