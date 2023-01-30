@@ -1,3 +1,3 @@
 module github.com/aeff60/lecture8_mypackage
 
-go 1.19
+go 1.17
